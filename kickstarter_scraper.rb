@@ -1,4 +1,4 @@
-
+# file: kickstarter_scraper.rb
 
 require "nokogiri"
 require "pry"
